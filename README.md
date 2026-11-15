@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# Handwritten Character Recognition Using CNN
+# Handwrite-Recognization
+
+## Handwritten Character Recognition Using CNN
 
 An interactive Streamlit application that classifies one handwritten digit or
 English letter from a drawing or uploaded image. Predictions come from a trained
@@ -297,7 +298,3 @@ EMNIST dataset or a training run. Do not upload `.venv/`, `data/`, or secrets.
 See [`runtime-validation-report.md`](./runtime-validation-report.md) for the
 application startup, automated test, dependency, syntax, and browser validation
 results.
-=======
-# Handwritten-Character-Recognition
-Handwritten Character Recognition using CNN to identify handwritten letters and digits with Python and Deep Learning.
->>>>>>> 21549299f4541e337b7d949b14a6c457cd6114b1

@@ -13,6 +13,12 @@ __pycache__/
 venv/
 env/
 ENV/
+env.bak/
+venv.bak/
+.pdm-python
+.pdm-build/
+.pixi/
+__pypackages__/
 
 # ==============================
 # PYTHON PACKAGES
@@ -39,6 +45,7 @@ dist/
 .env
 .env.*
 !.env.example
+.envrc
 
 # ==============================
 # IDE AND EDITOR FILES
@@ -56,6 +63,12 @@ dist/
 htmlcov/
 .tox/
 .nox/
+.cache/
+.hypothesis/
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
 
 # ==============================
 # LOG FILES
